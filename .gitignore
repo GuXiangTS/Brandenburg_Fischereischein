@@ -1,0 +1,10 @@
+# Source PDF (large, keep local only)
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
